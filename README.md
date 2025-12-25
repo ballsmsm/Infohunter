@@ -13,5 +13,5 @@
 ## Installation
 ```bash
 git clone https://github.com/ballsmsm/InfoHunter.git
-cd InfoHunter
+cd ~/ispeaks-kali
 python3 ispeaks-kali.py
