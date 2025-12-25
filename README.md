@@ -13,10 +13,8 @@
 ## Installation
 ```bash
 git clone https://github.com/ballsmsm/InfoHunter.git
-cd ~/ispeaks-kali
+cd ~/infoHunter
 python3 ispeaks-kali.py
 pkg install python
-python3 -m ensurepip
-python3 -m pip install --upgrade pip
-python3 -m pip install requests dnspython
-python3 -m pip install colorama beautifulsoup4
+pkg install python-pip
+pip install requests dnspython
