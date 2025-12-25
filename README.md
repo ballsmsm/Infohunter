@@ -4,11 +4,22 @@
 *Status: Beta*
 
 ## Features
-- IP & Domain OSINT
-- Username & Email OSINT
-- Discord & Roblox OSINT
-- Network & Port Scanning
-- Credentials & Hash checks
+ [_OSINT & Recon_]
+- [1] IP OSINT
+- [2] Domain OSINT
+- [3] Username OSINT
+- [4] Email OSINT
+- [5] Email → Discord Correlation
+- [6] Phone OSINT
+  [_Network & Scanning_]
+- [1] Port Scanner
+- [2] SQL Injection Scanner
+  [_Credentials & Hashes_]
+- [1] Password Strength Checker
+- [2] Hash Identifier
+  [_Platform OSINT_]
+- [1] Roblox OSINT
+- [2] Discord OSINT
 
 ## Installation
 ```bash
