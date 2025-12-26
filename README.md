@@ -24,6 +24,7 @@ pkg install python
 pkg install python-pip
 pip install requests dnspython
 pip install phonenumbers
+pip install python-whois
 git clone https://github.com/ballsmsm/InfoHunter.git
 cd ~/InfoHunter
 python3 ispeaks-kali.py
